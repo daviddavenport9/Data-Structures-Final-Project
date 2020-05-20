@@ -28,5 +28,5 @@ using namespace std;
 }
 
 void ItemType::print(){
-  cout << value << " ";
+  cout << value << " Hello World";
 }
